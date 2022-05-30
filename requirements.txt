@@ -1,0 +1,13 @@
+ktrain
+pandas==1.4.2
+tensorflow==2.2.0
+fastapi==0.75.0
+uvicorn==0.17.6
+gunicorn==20.1.0
+torch
+tika==1.24
+textblob==0.15.3
+lxml==4.8.0
+nltk==3.7
+requests==2.27.1
+protobuf~=3.19.0
