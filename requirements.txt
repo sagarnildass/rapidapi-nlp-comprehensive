@@ -1,6 +1,6 @@
 ktrain
 pandas==1.4.2
-tensorflow==2.2.0
+tensorflow>=2.3
 fastapi==0.75.0
 uvicorn==0.17.6
 gunicorn==20.1.0
